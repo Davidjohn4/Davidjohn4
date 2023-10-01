@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David John</h1>
 
-<h3 align="center">I have a total of 1.6 years of experience in the IT field. Initially, I worked as a Node.js Developer for 1 year before transitioning to the data analysis domain. Currently, I am a Junior Data Analyst at a startup company where I utilize tools such as Power BI, PL/SQL, and Excel to extract meaningful insights from data. </h3>
+<h2 align="left">I have a total of 1.6 years of experience in the IT field. Initially, I worked as a Node.js Developer for 1 year before transitioning to the data analysis domain. Currently, I am a Junior Data Analyst at a startup company where I utilize tools such as Power BI, PL/SQL, and Excel to extract meaningful insights from data. </h2>
 <img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/06/dl.gif">
 - 🌱 I’m currently learning **AWS , Snowflake , Matillion**
 
